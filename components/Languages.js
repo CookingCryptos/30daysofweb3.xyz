@@ -9,6 +9,7 @@ import joinClassNames from "../utils/joinClassNames";
 const languages = [
   { title: "English", value: "en" },
   { title: "Espanol", value: "es" },
+  { title: "Français", value: "fr" },
 ];
 
 export default function Languages({navigation}) {

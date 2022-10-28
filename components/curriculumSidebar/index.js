@@ -39,6 +39,23 @@ export default function CurricSideBar({ navigation, locale }) {
             </a>
           </Link>
         )}
+
+        {locale && locale === "en" && (
+          <Link locale="fr" href="/fr/curriculum/1-introduction/0-apercu">
+            <a className="m-2 inline-flex items-center px-3 py-2 border border-gray-300 shadow-sm text-sm leading-4 font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-royal-500">
+              Navigate to French
+            </a>
+          </Link>
+        )}
+
+        {locale && locale === "fr" && (
+          <Link locale="en" href="/curriculum/1-getting-started/0-overview">
+            <a className="m-2 inline-flex items-center px-3 py-2 border border-gray-300 shadow-sm text-sm leading-4 font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-royal-500">
+              Navigate to English
+            </a>
+          </Link>
+        )}
+        
       </div>
     </div>
   );
