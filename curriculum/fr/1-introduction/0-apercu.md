@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Pour commencer
 description: 30 Days of Web3 is the ultimate guide to building full-stack dapps on Ethereum. Get started with our free online curriculum here.
 optional: false
 tweet: "Get started with #30DaysofWeb3, the ultimate guide to building full-stack dapps with @womenbuildweb3 🚀"
@@ -34,14 +34,14 @@ Ce cours se concentrera sur l'architecture globale et vous aidera à définir la
 A avoir :
 
 - Une compréhension de base de la façon de naviguer dans votre terminal
-- JavaScript de base
+- Connaissance de base de JavaScript 
 - Connaissance de base de React
 
 Il est utile d'être familier avec ce qui précède, mais vous allez rattraper en cours de route.
 
 ## 🚀 Avant de commencer
 
-Ce cours est entièrement asynchrone, en ligne, et créé pour ne prendre que 30-45 mins par jour pour être expédié en 30 jours. Le programme est rythmé, et vous remarquerez des notes indiquant la fin des jours 1, 2, 3, etc. Ces repères sont rythmés avec une certaine marge, donc si vous êtes en retard d'un jour ou deux, ne vous inquiétez pas. Si vous ne prévoyez pas de postuler pour l'accélérateur BUIDL, vous pouvez vous sentir libre de suivre ce projet à votre propre rythme et d'ignorer les marqueurs de rythme.
+Ce cours est entièrement asynchrone, en ligne, et créé pour ne prendre que 30-45 mins par jour pour être terminé en 30 jours. Le programme est rythmé, et vous remarquerez des notes indiquant la fin des jours 1, 2, 3, etc. Ces repères sont rythmés avec une certaine marge, donc si vous êtes en retard d'un jour ou deux, ne vous inquiétez pas. Si vous ne prévoyez pas de postuler pour l'accélérateur BUIDL, vous pouvez vous sentir libre de suivre ce projet à votre propre rythme et d'ignorer les jours.
 
 Pour être éligible à l'Accélérateur BUIDL, vous devez terminer ce cours dans les prochains **40 jours** pour respecter la date limite de candidature. Plus de détails sur l'accélérateur BUIDL seront bientôt publiés.
 
@@ -82,7 +82,7 @@ Rendez-vous sur le canal **#workshop-qna** pour poser les questions auxquelles v
 
 Les enregistrements des ateliers seront publiés dans le canal **#workshop-recordings**.
 
-## 🤚 Obtenir de l'aide
+## 🤚 Obtenir de l'aide (en anglais)
 
 Si vous avez une question, envoyez un message sur le serveur Discord dans le canal correspondant à la section dans laquelle vous vous trouvez.
 

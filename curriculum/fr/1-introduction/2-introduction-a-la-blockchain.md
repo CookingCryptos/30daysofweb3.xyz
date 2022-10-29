@@ -1,9 +1,8 @@
 ---
-title: Introduction à la Blockchain
+title: Introduction a la Blockchain
 description: Learn about what blockchain technology is and how transactions are executed on the blockchain.
 optional: true
-optionalMsg:
-Si vous êtes familier avec les principes fondamentaux du web3 et que vous avez déjà votre propre wallet de crypto-monnaies, n'hésitez pas à passer à la section suivante !
+optionalMsg: Si vous êtes familier avec les principes fondamentaux du web3 et que vous avez déjà votre propre wallet de crypto-monnaies, n'hésitez pas à passer à la section suivante !
 optionalNextPath: /fr/curriculum/2-construire-sur-ethereum/0-architecture-client-serveur
 tweet: "Learn about blockchains and transactions with #30DaysofWeb3 @womenbuildweb3 🌐"
 ---
@@ -30,7 +29,7 @@ Lorsqu'il y a beaucoup de trafic et une forte demande pour le réseau, les frais
 
 Une fois que la transaction a été demandée, elle est authentifiée et ajoutée à un **bloc** (_qui représente un ensemble de transactions sur la blockchain_). Ces blocs ont chacun une capacité de stockage maximale, de sorte qu'une fois cette capacité atteinte, les blocs sont verrouillés et liés au bloc précédemment verrouillé. En outre, ces blocs contiennent des informations telles que des signatures numériques, un horodatage et toute autre information importante. Le bloc est envoyé à l'ensemble des **nœuds** du réseau (_participants à la blockchain_).
 
-Ensuite, les nœuds valident la transaction et reçoivent une récompense (généralement, la récompense est la principale crypto-monnaie de la blockchain) pour avoir participé au processus de validation. Ensuite, le bloc est officiellement ajouté à la blockchain existante. Après cela, la blockchain reçoit une mise à jour à travers tout le réseau et reflète officiellement cette transaction. La transaction est maintenant terminée. Si vous souhaitez en savoir plus sur le fonctionnement des transactions, nous vous recommandons de consulter cet article utile de [Euromoney Learning](https://www.euromoney.com/learning/blockchain-explained/how-transactions-get-into-the-blockchain).
+Ensuite, les nœuds valident la transaction et reçoivent une récompense (généralement, la récompense est la principale crypto-monnaie de la blockchain) pour avoir participé au processus de validation. Puis, le bloc est officiellement ajouté à la blockchain existante. Après cela, la blockchain reçoit une mise à jour à travers tout le réseau et reflète officiellement cette transaction. La transaction est maintenant terminée. Si vous souhaitez en savoir plus sur le fonctionnement des transactions, nous vous recommandons de consulter cet article utile de [Euromoney Learning](https://www.euromoney.com/learning/blockchain-explained/how-transactions-get-into-the-blockchain).
 
 Maintenant que nous en savons un peu plus sur le fonctionnement des transactions de la blockchain, nous allons nous pencher sur les contrats intelligents ou smart contracts !
 
